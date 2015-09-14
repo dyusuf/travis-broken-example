@@ -1,1 +1,1 @@
-print "Hello"
+assert 1 + 1 == 2
